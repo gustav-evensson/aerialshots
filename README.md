@@ -15,3 +15,7 @@ I used firebase to host the site but the files for that are not included in this
 mainly because of security reasons.
 
 [Firebase Console](https://console.firebase.google.com)
+
+I also used figma for designing the mockup.
+
+[Figma](https://www.figma.com)
