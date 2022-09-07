@@ -14,4 +14,4 @@ i did not feel usage of a framwork nessecary in this case.
 I used firebase to host the site but the files for that are not included in this repo
 mainly because of security reasons.
 
-[Firebase Console] (https://console.firebase.google.com)
+[Firebase Console](https://console.firebase.google.com)
