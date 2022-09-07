@@ -1,10 +1,10 @@
-# Welcome to AerialShots github repo
+![](https://github.com/gustav-evensson/aerialshots/blob/main/website/assets/4xlogo.png)
+
+## Welcome to the github repo!
 
 Here you can see the tools used to build the AerialShots website
 
 [AerialShots](https://aerialshots.se)
-
-![](https://github.com/gustav-evensson/aerialshots/blob/main/website/assets/4xlogo.png)
 
 ## Tools
 
