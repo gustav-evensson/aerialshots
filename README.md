@@ -4,6 +4,8 @@ Here you can see the tools used to build the AerialShots website
 
 [AerialShots](https://aerialshots.se)
 
+![](https://github.com/gustav-evensson/aerialshots/blob/main/website/assets/4xlogo.png)
+
 ## Tools
 
 The website is created using only HTML and CSS. Considering the simplicity of the website
