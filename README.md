@@ -1,21 +1,19 @@
-## Welcome to the github repo!
+## About the project
 
 ![](https://github.com/gustav-evensson/aerialshots/blob/main/website/assets/4xlogo.png)
 
-Here you can see the tools used to build the AerialShots website
+[AerialShots](https://aerialshots.se) is a static SPA that I build as a landingpage for my side business where i shoot drone footage. I figured I would add it to my portfolio aswell even if it's not the most exiting project to show. 
 
-[AerialShots](https://aerialshots.se)
+## Tools used
 
-## Tools
+### The website
 
-The website is created using only HTML and CSS. Considering the simplicity of the website
-i did not feel usage of a framwork nessecary in this case.
+The website itself is built using HTML & CSS due to the simplicity of the site I did not find it neseccary to use a framework.
 
-I used firebase to host the site but the files for that are not included in this repo
-mainly because of security reasons.
+### The design
 
-[Firebase Console](https://console.firebase.google.com)
+[Figma](https://www.figma.com/) has always been my go to tool when it comes to anything regarding design or graphics. So for this figma did the trick.
 
-I also used figma for designing the mockup.
+### Hosting
 
-[Figma](https://www.figma.com)
+I seem to always keep [firebase](https://console.firebase.google.com) in mind when it comes to backend and hosting. I got my domain quick and easy from [name.com](https://www.name.com/) wich i think is a good tool for dealing with domains. They also helped me setup my contact@aerialshots.se E-mail. 
